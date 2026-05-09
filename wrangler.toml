@@ -24,8 +24,8 @@ enabled = true
 # - https://developers.cloudflare.com/workers/configuration/secrets/
 [vars]
 # MY_VARIABLE = "production_value"
-GITHUB_CLIENT_ID="Ov23liXnwNJNKnHDN7zz"
-GITEE_CLIENT_ID="6a079221da09e6234f3895bbaa41c047440393437bcd5c06135951776db07c9e"
+GITHUB_CLIENT_ID="Iv23lihsgEht5mbPdDIa"
+GITEE_CLIENT_ID="e80f18bf0cb26b2909f538dd809d567d1687554aef61f02378c571df2dd970d8"
 
 # Bind the Workers AI model catalog. Run machine learning models, powered by serverless GPUs, on Cloudflare’s global network
 # Docs: https://developers.cloudflare.com/workers/wrangler/configuration/#workers-ai
